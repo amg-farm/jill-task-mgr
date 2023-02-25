@@ -12,3 +12,8 @@ What Will the Application Do?
    - There should be a button to delete the task
 - For MVP, you do not need to provide user authentication or state management--this can be
 a single task list
+
+Initial table layout:
+
+
+![simple-task-manager db](sql/ddl/simple_task_manager.png)
